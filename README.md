@@ -48,7 +48,7 @@ Rita upp alla klasser i ett UML-diagram. Diagrammet ska tydligt visa vilken klas
 
 - Basklassen Person implementera interfacet IComparable.
 
-## Kriterier för väl godkänt.
+## Kriterier för väl godkänt. (uppnått)
   
 Skapa funktionalitet för instant search för att lätt hitta åt personer i listan
 
