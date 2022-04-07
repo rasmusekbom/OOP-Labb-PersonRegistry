@@ -46,4 +46,14 @@ Rita upp alla klasser i ett UML-diagram. Diagrammet ska tydligt visa vilken klas
 
 - För merge-funktionen skall överlagraing av + operator användas.
 
-- Basklassen Person implementera interfacet IComparable
+- Basklassen Person implementera interfacet IComparable.
+
+## Kriterier för väl godkänt.
+  
+Skapa funktionalitet för instant search för att lätt hitta åt personer i listan
+
+- Skall visa resultatet direkt (instant search result)
+
+- Sökfunktionen ska fungera på både för och efternamn
+
+- Gemener eller versaler ska inte ha betydelse för sökning
